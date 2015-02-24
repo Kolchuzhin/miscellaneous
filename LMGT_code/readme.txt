@@ -1,8 +1,9 @@
-LMGR MEMS design tools:
+LMGT MEMS design tools:
 
 1. ROM Tool
 2. BEM
-3. 
+3. ROM for magnetic system
+4. HOD based parametric FEM
 
 
 
