@@ -16,3 +16,8 @@ sp_br=200   ! Spaltbreite
 fe_la=2500  ! Federlänge
 fe_out=1500 ! Überstand der Feder von Plattenkante
 fe_br=160   ! Federbreite
+
+
+Model for FastCap:
+
+spiegel.qui
