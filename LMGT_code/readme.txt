@@ -9,7 +9,7 @@ LMGT MEMS design tools:
 F. Bennini, “Ordnungsreduktion von elektrostatisch-mechanischen Finite Elemente Modellen für die Mikrosystemtechnik“, Dissertation, Technische Universität Chemnitz, 2005.
 http://www.qucosa.de/fileadmin/data/qucosa/documents/5058/data/Dissertation_FBennini.pdf
 
-Ansorge, E.: Untersuchungen zur Ordnungsreduktion magnetischer Systeme für dynamische Berechnungen.Diplomarbeit, Betreuer: Dr. J. Mehner, Dipl.-Ing. F. Bennini, 2003
+Ansorge, E.: Untersuchungen zur Ordnungsreduktion magnetischer Systeme für dynamische Berechnungen. Diplomarbeit, Betreuer: Dr. J. Mehner, Dipl.-Ing. F. Bennini, 2003
 
 Stahl, C.: Kapzitätsberechnung mittels Boundary Element Methoden. Diplomarbeit, Betreuer: Dr. Mehner, 2004
 
