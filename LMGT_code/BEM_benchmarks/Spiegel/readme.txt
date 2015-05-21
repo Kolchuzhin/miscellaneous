@@ -7,7 +7,7 @@ Original Model:
 ktabelle.dat (4E17.8) [elem_i node1 node2 node3 node4 Elektrodennummer]
 etabelle.dat (6E12.5) [node_i x y z]
 
-Parameters:
+Parameters in um:
 
 pl_br=4000  ! Plattenbreite
 pl_la=4000  ! Plattenlänge
@@ -21,3 +21,8 @@ fe_br=160   ! Federbreite
 Model for FastCap:
 
 spiegel.qui
+
+
+Results:
+
+FastCap2.dat
