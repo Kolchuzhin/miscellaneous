@@ -1,6 +1,6 @@
 % 20.02.2015
+% function test_Gt_to_Prony
 %-------------------------------------------------------------------------%
-function test_Gt_to_Prony
 
 t=logspace(-3,2)'; Gt=1+9*exp(-t.^0.5); 
 Nd=2;
