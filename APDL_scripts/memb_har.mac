@@ -74,7 +74,7 @@ ET,1,SOLID185	!20-Node 3D
 !--------------------------------------------------------------------------!
 EMUNIT,MKS	!
 
-material properties of <110> Si:
+! material properties of <110> Si:
 MP,EX,  1,169e9		! Young's modulus, Pa
 MP,NUXY,1,0.066		! Poisson's ratio
 MP,DENS,1,2329		! density, kg/m3
