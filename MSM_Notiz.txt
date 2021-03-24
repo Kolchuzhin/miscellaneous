@@ -5,3 +5,6 @@ https://en.wikipedia.org/wiki/Superposition_principle
 Mode superposition method uses the natural frequencies and mode shapes to characterize the dynamic response of a linear structure.
 
 
+Benchmarks:
+
+https://morwiki.mpi-magdeburg.mpg.de/morwiki/index.php/Category:Benchmark
