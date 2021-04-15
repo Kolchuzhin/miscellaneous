@@ -1,4 +1,4 @@
-# miscellaneous: MESM related codes
+# miscellaneous: MEMS related codes
 
 
 ## Practical MEMS book: Analysis and design of microsystems
