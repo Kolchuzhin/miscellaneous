@@ -10,3 +10,4 @@ http://www.kaajakari.net/PracticalMEMS/book_material.shtml
 https://www.rle.mit.edu/cpg/research_codes.htm
 ## FastFieldSolvers
 https://www.fastfieldsolvers.com/
+## Mehner, Jan: Entwurf in der Mikrosystemtechnik. Dresden University Press, Dresden 2000
