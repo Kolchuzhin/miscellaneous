@@ -12,3 +12,4 @@ https://www.rle.mit.edu/cpg/research_codes.htm
 ## FastFieldSolvers
 https://www.fastfieldsolvers.com/
 ## Mehner, Jan: Entwurf in der Mikrosystemtechnik. Dresden University Press, Dresden 2000
+https://github.com/Kolchuzhin/LMGT_code/tree/master/Jan_Mehner/Entwurf_in_der_Mikrosystemtechnik
