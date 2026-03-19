@@ -1,13 +1,13 @@
 # miscellaneous: MEMS related codes
 
 ## SUGAR
-academic MEMS simulation tool developed at UC Berkeley conceptually similar to SPICE for circuits
+academic MEMS simulation tool (conceptually similar to SPICE for circuits) developed at UC Berkeley
 
 
 ## Practical MEMS book: Analysis and design of microsystems
 http://www.kaajakari.net/PracticalMEMS/book_material.shtml
-* [Yangle.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/Yangle.m)
-* [pangle3.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/pangle3.m)
+* silicon Young'g modulus and Poisson's ration in any crystal direction: [Yangle.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/Yangle.m)
+* silicon piezoresistance coefficients in any crystal direction: [pangle3.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/pangle3.m)
 
 ## Computer codes produced and supported by the RLE Computational Prototyping Group
 https://www.rle.mit.edu/cpg/research_codes.htm
@@ -27,4 +27,9 @@ https://github.com/Kolchuzhin/LMGT_code/tree/master/Jan_Mehner/Entwurf_in_der_Mi
 
 ============================================================================================
 
-fem_beam.m
+### FEM model of a 3D cantilever Timoshenko beam: [fem_beam.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/fem_beam.m)
+
+H. Panzer, J. Hubele et al.:
+Generating a Parametric Finite Element Model of a 3D Cantilever Timoshenko Beam Using Matlab
+Technical reports on Automatic Control, vol. TRAC-4,
+Institute of Automatic Control, Technische Universitaet Muenchen, 2009
