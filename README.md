@@ -1,6 +1,8 @@
 # miscellaneous: MEMS related codes
 
-fem_beam.m
+## SUGAR
+academic MEMS simulation tool developed at UC Berkeley conceptually similar to SPICE for circuits
+
 
 ## Practical MEMS book: Analysis and design of microsystems
 http://www.kaajakari.net/PracticalMEMS/book_material.shtml
@@ -22,4 +24,7 @@ https://github.com/Kolchuzhin/LMGT_code/tree/master/Jan_Mehner/Entwurf_in_der_Mi
   Gesellschaft für Mikroelektronikanwendungen Chemnitz mbH [GEMAC](http://www.gemac-chemnitz.de)
 
 ## hAMSter
-  
+
+============================================================================================
+
+fem_beam.m
