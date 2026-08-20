@@ -6,8 +6,8 @@ academic MEMS simulation tool (conceptually similar to SPICE for circuits) devel
 
 ## Practical MEMS book: Analysis and design of microsystems
 http://www.kaajakari.net/PracticalMEMS/book_material.shtml
-* silicon Young'g modulus and Poisson's ration in any crystal direction: [Yangle.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/Yangle.m)
-* silicon piezoresistance coefficients in any crystal direction: [pangle3.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/pangle3.m)
+* silicon Young'g modulus and Poisson's ration in any crystal direction: [Yangle.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/Ville%20Kaajakari/Yangle.m)
+* silicon piezoresistance coefficients in any crystal direction: [pangle3.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/Ville%20Kaajakari/pangle3.m)
 
 ## Computer codes produced and supported by the RLE Computational Prototyping Group
 https://www.rle.mit.edu/cpg/research_codes.htm
