@@ -1,7 +1,7 @@
 # miscellaneous: MEMS related codes
 
 ## SUGAR
-academic MEMS simulation tool (conceptually similar to SPICE for circuits) developed at UC Berkeley
+[SUGAR](https://www.cs.cornell.edu/~bindel/blurbs/sugar.html#) is an academic MEMS simulation tool (conceptually similar to SPICE for circuits) developed at UC Berkeley
 
 
 ## Practical MEMS book: Analysis and design of microsystems
