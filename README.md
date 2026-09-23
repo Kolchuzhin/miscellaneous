@@ -24,7 +24,7 @@ https://github.com/Kolchuzhin/LMGT_code/tree/master/Jan_Mehner/Entwurf_in_der_Mi
   Gesellschaft für Mikroelektronikanwendungen Chemnitz mbH [GEMAC](http://www.gemac-chemnitz.de)
 
 ## hAMSter
-
+  first stand alone VHDL-AMS Simulator for PCs developed by SIMEC GmbH & Co KG)
 ============================================================================================
 
 ### FEM model of a 3D cantilever Timoshenko beam: [fem_beam.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/fem_beam.m)
