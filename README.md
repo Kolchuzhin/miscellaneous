@@ -10,24 +10,24 @@ http://www.kaajakari.net/PracticalMEMS/book_material.shtml
 * silicon piezoresistance coefficients in any crystal direction: [pangle3.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/Ville%20Kaajakari/pangle3.m)
 
 ## Computer codes produced and supported by the RLE Computational Prototyping Group
-https://www.rle.mit.edu/cpg/research_codes.htm
+  https://www.rle.mit.edu/cpg/research_codes.htm
 
 ## FastFieldSolvers
-https://www.fastfieldsolvers.com/
+  https://www.fastfieldsolvers.com/
 
 ## Mehner, Jan: Entwurf in der Mikrosystemtechnik. Dresden University Press, Dresden 2000
-https://github.com/Kolchuzhin/LMGT_code/tree/master/Jan_Mehner/Entwurf_in_der_Mikrosystemtechnik
-
-============================================================================================
+  https://github.com/Kolchuzhin/LMGT_code/tree/master/Jan_Mehner/Entwurf_in_der_Mikrosystemtechnik
 
 ## SIMODE
   Gesellschaft für Mikroelektronikanwendungen Chemnitz mbH [GEMAC](http://www.gemac-chemnitz.de)
 
 ## hAMSter
+
+
   first stand alone VHDL-AMS Simulator for PCs developed by SIMEC GmbH & Co KG
 ============================================================================================
 
-### FEM model of a 3D cantilever Timoshenko beam: [fem_beam.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/fem_beam.m)
+## FEM model of a 3D cantilever Timoshenko beam: [fem_beam.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/fem_beam.m)
 
 H. Panzer, J. Hubele et al.:
 Generating a Parametric Finite Element Model of a 3D Cantilever Timoshenko Beam Using Matlab
