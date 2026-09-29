@@ -15,17 +15,25 @@ http://www.kaajakari.net/PracticalMEMS/book_material.shtml
 ## FastFieldSolvers
   https://www.fastfieldsolvers.com/
 
+
+## MEMSolver
+https://www.memsolver.com/
+
+
+
+
+
 ## Mehner, Jan: Entwurf in der Mikrosystemtechnik. Dresden University Press, Dresden 2000
   https://github.com/Kolchuzhin/LMGT_code/tree/master/Jan_Mehner/Entwurf_in_der_Mikrosystemtechnik
 
 ## SIMODE
-  Gesellschaft für Mikroelektronikanwendungen Chemnitz mbH [GEMAC](http://www.gemac-chemnitz.de)
+   + J. Fruhauf, K. Trautmann, J. Wittig, D. Zielke: ,,A simulation tool for the orientation depended etching", J. Micromech. Microeng., 3 (1993) 113-115.
+   + D. Zielke, J Fruhauf, F. Rossler: ,,Simulation of the orientation dependent etching of complex mask structure", MME 95,Technical Digest, Copenhagen, Denmark, 3-5 September 1995, p. 164-167.
+   + Gesellschaft für Mikroelektronikanwendungen Chemnitz mbH [GEMAC](http://www.gemac-chemnitz.de)
 
 ## hAMSter
-
-
-  first stand alone VHDL-AMS Simulator for PCs developed by SIMEC GmbH & Co KG
-============================================================================================
+  + first stand alone VHDL-AMS Simulator for PCs developed by SIMEC GmbH & Co KG
+=========================================================================================
 
 ## FEM model of a 3D cantilever Timoshenko beam: [fem_beam.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/fem_beam.m)
 
