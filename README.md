@@ -1,43 +1,40 @@
 # miscellaneous: MEMS related codes
 
-## SUGAR
-[SUGAR](https://www.cs.cornell.edu/~bindel/blurbs/sugar.html#) is an academic MEMS simulation tool (conceptually similar to SPICE for circuits) developed at UC Berkeley
+### SUGAR
+  + [SUGAR](https://www.cs.cornell.edu/~bindel/blurbs/sugar.html#) is an academic MEMS simulation tool (conceptually similar to SPICE for circuits) developed at UC Berkeley
 
+### Computer codes produced and supported by the RLE Computational Prototyping Group
+  + https://www.rle.mit.edu/cpg/research_codes.htm
 
-## Practical MEMS book: Analysis and design of microsystems
-http://www.kaajakari.net/PracticalMEMS/book_material.shtml
-* silicon Young'g modulus and Poisson's ration in any crystal direction: [Yangle.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/Ville%20Kaajakari/Yangle.m)
-* silicon piezoresistance coefficients in any crystal direction: [pangle3.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/Ville%20Kaajakari/pangle3.m)
+### FastFieldSolvers
+  + https://www.fastfieldsolvers.com/
 
-## Computer codes produced and supported by the RLE Computational Prototyping Group
-  https://www.rle.mit.edu/cpg/research_codes.htm
+### MEMSolver
+  + https://www.memsolver.com/
 
-## FastFieldSolvers
-  https://www.fastfieldsolvers.com/
-
-
-## MEMSolver
-https://www.memsolver.com/
-
-
-
-
-
-## Mehner, Jan: Entwurf in der Mikrosystemtechnik. Dresden University Press, Dresden 2000
-  https://github.com/Kolchuzhin/LMGT_code/tree/master/Jan_Mehner/Entwurf_in_der_Mikrosystemtechnik
-
-## SIMODE
+### SIMODE
    + J. Fruhauf, K. Trautmann, J. Wittig, D. Zielke: ,,A simulation tool for the orientation depended etching", J. Micromech. Microeng., 3 (1993) 113-115.
    + D. Zielke, J Fruhauf, F. Rossler: ,,Simulation of the orientation dependent etching of complex mask structure", MME 95,Technical Digest, Copenhagen, Denmark, 3-5 September 1995, p. 164-167.
    + Gesellschaft für Mikroelektronikanwendungen Chemnitz mbH [GEMAC](http://www.gemac-chemnitz.de)
 
-## hAMSter
+### hAMSter
   + first stand alone VHDL-AMS Simulator for PCs developed by SIMEC GmbH & Co KG
+
 =========================================================================================
 
-## FEM model of a 3D cantilever Timoshenko beam: [fem_beam.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/fem_beam.m)
+### Kaajakari, Ville: Practical MEMS book: Analysis and design of microsystems
+  + http://www.kaajakari.net/PracticalMEMS/book_material.shtml
+    * silicon Young'g modulus and Poisson's ration in any crystal direction: [Yangle.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/Ville%20Kaajakari/Yangle.m)
+    * silicon piezoresistance coefficients in any crystal direction: [pangle3.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/Ville%20Kaajakari/pangle3.m)
 
-H. Panzer, J. Hubele et al.:
-Generating a Parametric Finite Element Model of a 3D Cantilever Timoshenko Beam Using Matlab
-Technical reports on Automatic Control, vol. TRAC-4,
-Institute of Automatic Control, Technische Universitaet Muenchen, 2009
+### Mehner, Jan: Entwurf in der Mikrosystemtechnik. Dresden University Press, Dresden 2000
+  + https://github.com/Kolchuzhin/LMGT_code/tree/master/Jan_Mehner/Entwurf_in_der_Mikrosystemtechnik
+
+=========================================================================================
+
+### FEM model of a 3D cantilever Timoshenko beam: [fem_beam.m](https://github.com/Kolchuzhin/miscellaneous/blob/master/fem_beam.m)
+
+  + H. Panzer, J. Hubele et al.:
+  Generating a Parametric Finite Element Model of a 3D Cantilever Timoshenko Beam Using Matlab
+  Technical reports on Automatic Control, vol. TRAC-4,
+  Institute of Automatic Control, Technische Universitaet Muenchen, 2009
